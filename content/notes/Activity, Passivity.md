@@ -1,0 +1,22 @@
+---
+title: "Activity, Passivity"
+tags:
+- example-tag
+enableToc: false # do not show a table of contents on this page
+---
+
+= D.: Aktivität/Passivität.–Es.: actividad/pasividad.–Fr.: activité/passivité.–I.: atività/passività.–P.: atividade/passividade.
+
+One of the [[pairs of opposites]] which sure fundamental to mental life. Activity and passivity sure the defining characteristics of specific types of [[aim of the instinct, instinctual aim|instinctual aims]]. From the genetic point of view the active-passive dichotomy is prior to the subsequent oppositions between phallic and castrated, [[masculinity, femininity|masculine and feminine]], which eventually subsume it.
+
+Although activity and passivity are principally seen in Freud’s terms as attributes of the modalities of instinctual life, it does not follow that there is a corollary distinction to be made between active and passive instincts. On the contrary, Freud was concerned to emphasise–particularly on the occasion of his polemic with Adler (see ‘Aggressive Instinct’)–that being active was itself a defining quality of the instincts: ‘Every instinct is a piece of activity; if we speak loosely of passive instincts, we can only mean instincts whose aim is passive’ (la).
+
+Psycho-analysts may observe this passivity of the aim in the special instances of people who want to be ill-treated (masochism) or to be seen (exhibitionism). If we are to understand what is meant by passivity here, we should distinguish between two levels: the level of explicit behaviour and the level of the underlying phantasies. It is certain that the masochist’s behaviour, for example, is the expression of a response to instinctual demands–in other words, it is an activity aiming to get him into a situation which provides satisfaction. Yet the final stage of this behaviour is not attained unless the subject manages to take up a position in which he is at the mercy of the other. It can be shown how, at the phantasy level, every passive position is in fact inseparable from its opposite; thus, in masochism, ‘the passive ego places itself back in phantasy in its first role, which has now in fact been taken over by the extraneous subject’ (1b). In a similar way it is always possible to discover the simultaneous or alternating presence, at the phantasy level, of the two poles of activity and passivity. All the same, when we are considering the type of satisfaction looked for, just as when we turn our attention to the position sought in phantasy, this complementarity must not be allowed to obscure the real measure of ineradicable attachment which may be present in the subject’s fixation to an active or a passive sexual role.
+
+As far as the development of the subject is concerned, Freud assigns an important part to the opposition of activity and passivity, which precedes two other oppositions–those between phallic and castrated and between masculinity and femininity. At the [[Anal-Sadistic Stage (or Phase)|anal stage]], Freud maintains, ‘the opposition between two currents, which runs through all sexual life, is already developed […]. The activity is put into operation by the [[instinct for mastery]] through the agency of the somatic musculature; the organ which, more than any other, represents the passive sexual aim is the erotogenic mucous membrane’ (2). This does not mean that activity and passivity do not coexist during the [[oral stage|oral phase]], but simply that they have not yet emerged as antagonistic poles.
+
+Ruth Mack Brunswick, in her description of ‘The Preoedipal Phase of the Libido Development’ (1940), has this to say: ‘Three great pairs of antitheses exist throughout the entire libido development, mingling, overlapping and combining, never wholly coinciding, and ultimately replacing one another. Infancy and childhood are characterised by the first two, and adolescence by the third’ (3a). She shows how the child starts by being totally passive in its role towards a mother who satisfies its needs, and how, gradually, ‘each bit of activity is based to some extent on an identification with the active mother’ (3b).
+
+(1) FREUD, S. ‘Instincts and their Vicissitudes’ (1915c): a) G.W., X, 214–15; S.E., XIV, 122. b) G.W., X, 220; S.E., XIV, 128.
+(2) FREUD, S. Three Essays on the Theory of Sexuality (1905d),G.W., V,99;S.E., VII, 198.
+(3) BRUNSWICK, R. MACK, in Psa. Read.: a) 234. b) 234–45.

@@ -1,0 +1,22 @@
+---
+title: "Abstinence (Rule of)"
+tags:
+- example-tag
+enableToc: false # do not show a table of contents on this page
+---
+
+= D.: Abstinenz (Grundsatz der).–Es.: abstinencia (regle de’).–Fr.: abstinence (règie di).–I.: astinenza (regola di).–P.: abstinência (regra de).
+
+
+Rule according to which the analytic treatment should be so organised as to ensure that the patient finds as few substitutive satisfactions for his symptoms as possible. The implication for the analyst is that he should refuse on principle to satisfy the patient’s demands and to fulfil the roles which the patient tends to impose upon Hia En certain cases, and at certain moments during the treatment, the rule of abstinence may be given explicit expression in tine form of advice about the patient’s repetitive behaviour which is hindering the work of recollection and the [[working out]].
+The justification for the rule of abstinence is of an essentially [[economic]] order. The analyst must make sure that the quantities of libido released by the treatment are not immediately redirected towards a fresh cathexis of external objects; they must so far as possible be transferred into the analytic situation. The libidinal energy is thus monopolised by the [[transference]] and deprived of any occasion for discharge other than through verbal expression.
+
+From the [[dynamic]] point of view, the treatment relies basically on the existence of suffering brought about by frustration–a suffering which tends to decrease as the symptoms are replaced by more satisfying substitutive behaviour. The important thing, therefore, is to maintain or to re-establish the frustration so as to assure the progress of the treatment.
+Implicitly, the notion of abstinence is linked to the whole principle of the analytic method, in that [[interpretation]] is its fundamental aim–not the gratification of the patient’s libidinal demands. It should come as no surprise that when Freud tackles the question of abstinence directly, in 1915, it is apropos of a particularly pressing demand–the one inevitably associated with transference-love: ‘I shall state it as a fundamental principle that the patient’s need and longing should be allowed to persist in her, in order that they may serve as forces impelling her to do work and to make changes, and that we must beware of appeasing these forces by means of surrogates’ (1).
+
+It was with Ferenczi that the technical problems posed by the observance of the rule of abstinence were to come to the forefront of psycho-analytic debate. In certain cases, Freud maintained, measures should be taken which tend to drive away the surrogate satisfactions which the patient finds both within the treatment and outside it. In his concluding address to the Budapest Congress of 1918, Freud approved such measures on principle and offered a theoretical justification for them: ‘Cruel though it may sound, we must see to it that the patient’s suffering, to a degree that is in some way or other effective, does not come to an end prematurely. If, owing to the symptoms having been taken apart, and having lost their value, his suffering becomes mitigated, we must re-instate it elsewhere in the form of some appreciable privation’ (2).
+
+The notion of abstinence is still the subject of debate. In our opinion, it is worth while drawing a clear distinction here between abstinence as a rule to be followed by the analyst–a simple consequence of his [[neutrality]]–and those [[Active Technique|active measures]] which he takes in order to get the patient to abstain from certain things of his own accord. Such measures range from interpretations whose persistent repetition makes them tantamount to injunctions, to categorical prohibitions. The latter, when they are not designed to forbid the patient all sexual relations, are usually directed against specific forms of sexual activity (perversions) or specific manœuvres of a repetitive character which seem to be paralysing the work of analysis. The majority of analysts have serious reservations about recourse to active measures of this type–notably on the grounds that in this way the analyst may with justice be accused of expressing repressive authority.
+
+(1) FREUD, S,, G.W., X, 313; S.E., XII, 165.
+(2) FREUD, S. ‘Lines of Advance in Psycho-Analytic Therapy’ (1919a [1918]), G.W., XII, 188; S.E., XVII, 163.
